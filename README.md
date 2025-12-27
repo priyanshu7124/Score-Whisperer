@@ -98,6 +98,9 @@ git clone --depth 1 https://github.com/<your_user_name>/Score-Whisperer.git
 ## `Builders`
 * [Yash Mistry](https://github.com/yash240408)
 * [Vaibhav Bhardwaj](https://vxibhxv.co)
+* [Priyanshu Prajapati](https://github.com/priyanshu7124)
+  
 
 # ⭐️ `Star us`
 - **If you like our project and want to support us, please consider starring our repository as a token of appreciation. Thank you!**
+
